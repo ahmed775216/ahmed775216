@@ -1,7 +1,7 @@
-# 💫 About Me:
+
 ### Hi there, I'm Ahmed 👋<br><br>Welcome to my GitHub profile!<br><br>
 ## About Me<br>
-#### I am a developer interested in building useful tools and exploring new technologies. I'm particularly drawn to creating automated solutions like bots and experimenting with web technologies.<br>I am currently working on a private project.<br>
+#### As a full-stack developer, I have a comprehensive skill set that allows me to build complete and scalable applications from the ground up. I am proficient in backend technologies like **PHP (Laravel)** and **Node.js**, as well as modern frontend frameworks using **Vite** and **TypeScript**. With additional experience in mobile development with **Flutter** and cloud services like **AWS**, I am adept at architecting and implementing end-to-end solutions that meet modern standards.<br>
 
 
 ## 🌐 Socials:
