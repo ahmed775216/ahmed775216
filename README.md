@@ -1,5 +1,7 @@
 # 💫 About Me:
-# Hi there, I'm Ahmed 👋<br><br>Welcome to my GitHub profile!<br><br>## About Me<br>I am a developer interested in building useful tools and exploring new technologies. I'm particularly drawn to creating automated solutions like bots and experimenting with web technologies.<br>I am currently working on a private project.<br>
+### Hi there, I'm Ahmed 👋<br><br>Welcome to my GitHub profile!<br><br>
+## About Me<br>
+#### I am a developer interested in building useful tools and exploring new technologies. I'm particularly drawn to creating automated solutions like bots and experimenting with web technologies.<br>I am currently working on a private project.<br>
 
 
 ## 🌐 Socials:
